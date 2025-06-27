@@ -1,0 +1,10 @@
+PowerShell Keylogger
+You are a malware analyst investigating a suspected PowerShell malware sample. 
+The malware is designed to establish a connection with a remote server, execute various commands, and potentially exfiltrate data. 
+Your goal is to analyze the malware’s functionality and determine its capabilities.
+
+File Location: C:\Users\LetsDefend\Desktop\ChallengeFile\sample.7z
+
+
+
+File Password: infected
